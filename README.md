@@ -1,4 +1,4 @@
-# Laravel and React CRUD operation
+# Laravel REST API and React CRUD operation
 
 Basic CRUD operation with Laravel REST API and React JS.
 ## Project Details
