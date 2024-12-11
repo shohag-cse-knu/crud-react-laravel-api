@@ -1,0 +1,39 @@
+#For crud-laravel project of Laravel
+crud-laravel/node_modules
+crud-laravel/public/hot
+crud-laravel/public/storage
+crud-laravel/storage/*.key
+crud-laravel/vendor
+crud-laravel/.env
+crud-laravel/.env.backup
+crud-laravel/.phpunit.result.cache
+crud-laravel/docker-compose.override.yml
+crud-laravel/Homestead.json
+crud-laravel/Homestead.yaml
+crud-laravel/npm-debug.log
+crud-laravel/yarn-error.log
+crud-laravel/.idea
+crud-laravel/.vscode
+
+#For crud-react project of JS
+# dependencies
+crud-react/node_modules
+crud-react//.pnp
+crud-react/.pnp.js
+
+# testing
+crud-react/coverage
+
+# production
+crud-react/build
+
+# misc
+crud-react/.DS_Store
+crud-react/.env.local
+crud-react/.env.development.local
+crud-react/.env.test.local
+crud-react/.env.production.local
+
+crud-react/npm-debug.log*
+crud-react/yarn-debug.log*
+crud-react/yarn-error.log*
