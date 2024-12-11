@@ -61,11 +61,11 @@ php artisan serve
 ```bash
 cd crud-react
 ````
-### 9. Install npm
+### 10. Install npm
 ```bash
 npm install
 ````
-### 10. Run React Project
+### 11. Run React Project
 ```bash
 npm start
 ````
